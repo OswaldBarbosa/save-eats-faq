@@ -1,0 +1,11 @@
+h1 {
+    padding-left: 4rem;
+    color: var(--second-color);
+    cursor: pointer;
+}
+
+h2 {
+    padding-left: 2rem;
+    color: var(--second-color);
+    cursor: pointer;
+}

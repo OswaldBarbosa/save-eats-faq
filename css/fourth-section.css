@@ -1,0 +1,90 @@
+.container-left-fourth-section {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.circle-fourth-section {
+    width: 65%;
+    height: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 100%;
+    background-color: var(--primary-color);
+}
+
+.leaf-one {
+    position: absolute;
+    top: 317vh;
+    right: 80%;
+    height: 10rem;
+}
+
+.leaf-two {
+    position: absolute;
+    top: 335vh;
+    right: 86%;
+    height: 6rem;
+}
+
+.leaf-three {
+    position: absolute;
+    top: 372vh;
+    right: 58%;
+    height: 6rem;
+}
+
+.leaf-four {
+    position: absolute;
+    top: 375vh;
+    right: 82%;
+    height: 6rem;
+}
+
+.container-rigth-fourth-section {
+    width: 100%;
+    height: 100%;
+    display: grid;
+    grid-template-rows: 33.3% 33.3% 33.3%;
+}
+
+.text-one-fourth-section {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    font-size: 3rem;
+    font-weight: 800;
+    text-transform: uppercase;
+    color: var(--primary-color);
+}
+
+.first-container-fourth-section {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.text-two-fourth-section {
+    width: 80%;
+    font-size: 2.5rem;
+    font-weight: 600;
+}
+
+.second-container-fourth-section {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.image-store {
+    height: 25%;
+}
